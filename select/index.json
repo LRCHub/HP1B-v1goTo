@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "グレートジャーニー",
+  "base_artist": "NORIKIYO",
+  "createdAt": "2025-12-12T16:30:44.053096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グレートジャーニー",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_グレートジャーニー_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グレートジャーニー",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/02_グレートジャーニー_Creepy_Nuts.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グレートジャーニー",
+      "artist": "NORIKIYO",
+      "has_synced": false,
+      "path": "select/pl_01_グレートジャーニー_NORIKIYO.txt"
+    }
+  ]
+}
